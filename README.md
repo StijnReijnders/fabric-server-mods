@@ -14,3 +14,4 @@ https://modrinth.com/mod/lithium -
 https://modrinth.com/mod/phosphor -
 https://www.curseforge.com/minecraft/mc-mods/textile-backup -
 https://www.curseforge.com/minecraft/mc-mods/worldedit -
+https://www.curseforge.com/minecraft/mc-mods/spark -
